@@ -37,5 +37,3 @@ daily-task-scheduler/
 ## Purpose
 This project was developed to improve productivity and task organization through a simple scheduling system. It also helped in understanding frontend web development concepts and JavaScript-based DOM manipulation.
 
-## Author
-Sara
